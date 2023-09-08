@@ -1,0 +1,6 @@
+
+    <svg width="300" height="200">
+    <polygon points="150 2 45 160 255 160" fill="orange"/>
+    <text x="150" y="125" font-size="60" text-anchor="middle" fill="green">GTA</text>
+    </svg>
+    
